@@ -31,4 +31,5 @@ Contribuições são bem-vindas! Por favor, siga as diretrizes do nosso código 
 
 ## Licença
 Este projeto é licenciado sob a Licença MIT.
-# Jornada-Machine-Learning
+
+⭐ Se este projeto foi útil para você, considere dar uma estrela!**
