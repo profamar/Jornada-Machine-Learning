@@ -20,7 +20,7 @@ Escolha os tópicos de acordo com seus interesses e o cargo desejado.
 Se você está iniciando, comece pelos fundamentos de programação e machine learning, e depois aprofunde-se nas áreas específicas.
 Lembre-se: Especialistas e Engenheiros têm áreas complementares, e dominar ambas pode ser um diferencial competitivo no mercado!
 
-## Etapas para Desenvolver Habilidades em Machine Learning, da Base à Prática!
+## 📚 Etapas para Desenvolver Habilidades em Machine Learning, da Base à Prática!
 
 ### **1️⃣ Fundamentos de Programação**
 - **Linguagem Base:** Python (Domínio da sintaxe, bibliotecas básicas e boas práticas).
