@@ -17,7 +17,8 @@ Infraestrutura de nuvem (AWS, Azure, Google Cloud).
 Deploy e monitoramento de modelos utilizando ferramentas como Docker, SQL, MLflow, e APIs com Flask ou FastAPI.
 Ele é voltado para quem deseja construir sistemas confiáveis e escaláveis para integrar soluções de Machine Learning em ambientes de produção.
 
-📌 Como usar este roadmap?
+## 📌 Como usar este roadmap?
+
 Escolha os tópicos de acordo com seus interesses e o cargo desejado.
 Se você está iniciando, comece pelos fundamentos de programação e machine learning, e depois aprofunde-se nas áreas específicas.
 Lembre-se: Especialistas e Engenheiros têm áreas complementares, e dominar ambas pode ser um diferencial competitivo no mercado!
