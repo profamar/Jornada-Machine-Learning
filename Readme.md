@@ -13,6 +13,24 @@ Bem-vindo à sua jornada para se tornar um engenheiro de Machine Learning! Abaix
 
 ---
 
+🚀 **Pronto para começar?** Explore cada etapa, utilize os recursos abaixo e compartilhe seu progresso!
+
+### Diretórios do Repositório
+
+- **`docs/`**: Documentação do projeto.  
+- **`notebooks/`**: Notebooks Jupyter para análise e modelagem.  
+- **`scripts/`**: Scripts Python para diversas tarefas.  
+- **`data/`**: Dados brutos e processados utilizados nos projetos.
+
+---
+
+### Executando o Projeto  
+
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/seu-usuario/jornada-machine-learning.git
+
+
 🚀 **Pronto para começar? Explore cada etapa e compartilhe seu progresso!**
 
 
