@@ -1,5 +1,5 @@
 # Jornada Machine Learning  
-Bem-vindo à sua jornada para se tornar um engenheiro de Machine Learning! Abaixo está um guia com etapas claras e progressivas para orientar seu aprendizado.  
+Bem-vindo à sua jornada para se tornar um Engenheiro de Machine Learning! Abaixo está um guia com etapas claras e progressivas para orientar seu aprendizado.  
 
 | **Etapas**                  | **Conteúdo**                                                                                 | **Ferramentas/Conceitos**                                                                 |
 |-----------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
