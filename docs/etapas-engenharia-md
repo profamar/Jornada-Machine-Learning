@@ -1,0 +1,14 @@
+# Etapas para a Engenharia de Machine Learning
+
+| **Etapas**               | **Tópicos/Atividades**                                                                 |
+|---------------------------|----------------------------------------------------------------------------------------|
+| **Primeira Etapa: Programação** | - Python<br>- GitHub (Controle de Versão)<br>- PEP 8 (Guia de Estilo para Python)<br>- Software Architecture |
+| **Segunda Etapa: Machine Learning** | - Estatística<br>- Notebook (ex.: Jupyter)<br>- Análise de Dados<br>- Modelo (Construção e Avaliação)          |
+| **Terceira Etapa: Cloud** | - Docker<br>- SQL<br>- Aplicações de Monitoria<br>- Serviços de ML (AWS SageMaker, Azure ML, etc.)  |
+| **Foco na Prática**       | - Desenvolvimento de Projetos Práticos                                                |
+| **Foco no Network**       | - Construção de perfil no LinkedIn e conexões na área de ML                           |
+
+---
+
+### Sobre o projeto
+Este arquivo faz parte do projeto **Jornada Machine Learning** e descreve as etapas e os tópicos principais para o desenvolvimento de habilidades em Engenharia de Machine Learning.
