@@ -62,7 +62,7 @@ Lembre-se: Especialistas e Engenheiros têm áreas complementares, e dominar amb
 ---
 
 # Tabela: Roadmap para Especialista em Machine Learning
-(Foco em pesquisa, desenvolvimento de modelos avançados e experimentação prática.)
+(Com foco em pesquisa, desenvolvimento de modelos avançados e experimentação prática.)
 
 | **Etapas**                  | **Conteúdo**                                                                                 | **Ferramentas/Conceitos**                                                                 |
 |-----------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -71,6 +71,25 @@ Lembre-se: Especialistas e Engenheiros têm áreas complementares, e dominar amb
 | **3. Implementação e Escalabilidade na Nuvem** | - Infraestrutura Contêinerizada<br> - Bancos de Dados (SQL)<br> - Monitoramento e Deploy<br> - Serviços na Nuvem | Docker, SQL, MLflow, AWS, Azure, Google Cloud                                           |
 | **4. Prática com Projetos Reais**   | - Previsão de Vendas<br> - Reconhecimento de Imagens<br> - Classificação de Textos<br> - Criação de APIs para Modelos | Flask, FastAPI, Projetos Práticos                                                       |
 | **5. Networking e Portfólio Profissional** | - Perfil Otimizado no LinkedIn<br> - Repositórios no GitHub<br> - Participação em Comunidades e Hackathons | LinkedIn, GitHub, Meetups, Hackathons                                                   |
+
+
+
+# Tabela: Roadmap para Engenheiro de Machine Learning
+(com foco na criação de soluções escaláveis, integração de modelos em produção e implementação de sistemas de ML avançados.)
+
+| **Etapas**                              | **Conteúdo**                                                                                              | **Ferramentas/Conceitos**                                                                  |
+|-----------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| **1. Fundamentos de Programação**       | - Linguagem Base: Python, C++<br> - Controle de Versão: Git e GitHub<br> - Arquitetura de Software e Design Patterns | Python, C++, Git, GitHub, PEP 8, Arquitetura de Software, Design Patterns                 |
+| **2. Fundamentos de Machine Learning**  | - Estatística e Probabilidade<br> - Modelos Supervisionados e Não-Supervisionados<br> - Técnicas de Pré-processamento | Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Matplotlib                             |
+| **3. Modelos Avançados e Deep Learning**| - Redes Neurais Profundas (DNN)<br> - Redes Convolucionais (CNN)<br> - Redes Recorrentes (RNN)<br> - Transfer Learning | TensorFlow, Keras, PyTorch, OpenCV, FastAI                                              |
+| **4. Escalabilidade e Desempenho de Modelos** | - Paralelização e Distribuição de Processos<br> - Modelos em Tempo Real<br> - Ferramentas de Big Data | Apache Spark, Dask, Ray, TensorFlow Serving, ONNX                                        |
+| **5. Deploy e Integração de Modelos**   | - Containerização (Docker, Kubernetes)<br> - APIs para Modelos de ML<br> - Deploy em Produção (CI/CD) | Docker, Kubernetes, Flask, FastAPI, Jenkins, GitLab CI/CD                                |
+| **6. Infraestrutura e Monitoramento**  | - Arquitetura de ML (MLops)<br> - Monitoramento de Modelos em Produção<br> - Log e Diagnóstico de Modelos | MLflow, Prometheus, Grafana, TensorBoard, AWS, Azure, Google Cloud                      |
+| **7. Engenharia de Dados e Pipelines**  | - Pipeline de Dados: ETL<br> - Armazenamento e Processamento de Dados em Tempo Real<br> - Uso de Big Data | Apache Kafka, Apache Airflow, Spark, Hadoop, Redshift, S3, MongoDB                      |
+| **8. Prática com Projetos Reais**       | - Sistemas de Recomendação<br> - Previsão de Séries Temporais<br> - Processamento de Linguagem Natural (NLP) | Flask, FastAPI, Projetos de Produção, Modelos em APIs RESTful                            |
+| **9. Melhoria Contínua e Experimentação** | - Otimização de Modelos (Hyperparameter Tuning)<br> - Testes A/B<br> - Validação Cruzada | Grid Search, Random Search, Hyperopt, Optuna, Cross-validation, Model Drift             |
+| **10. Networking e Portfólio Profissional** | - Perfil Otimizado no LinkedIn<br> - Repositórios no GitHub<br> - Participação em Comunidades e Hackathons | LinkedIn, GitHub, Meetups, Hackathons, Artigos e Blog Profissional                       |
+
 
 > **Nota:** O objetivo desta jornada é construir uma base sólida e prática em Machine Learning, enquanto desenvolvemos um portfólio robusto e criamos conexões no mercado.
 
