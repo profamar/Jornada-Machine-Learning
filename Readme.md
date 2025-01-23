@@ -5,19 +5,12 @@ Bem-vindo à sua jornada para se tornar um Engenheiro ou um Especialista de Mach
 
 Este roadmap atende às duas principais carreiras no campo de Machine Learning:
 
-Especialista em Machine Learning: Foco em pesquisa, aplicação prática e desenvolvimento de modelos avançados.
-Engenheiro de Machine Learning: Foco em infraestrutura, escalabilidade e integração de sistemas.
-
-Siga as etapas para construir uma base sólida e prática, adaptada às suas aspirações profissionais!
-
-## 🛠️ Especialista vs. Engenheiro de Machine Learning
-
-Especialista em Machine Learning
+## 🛠️ Especialista em Machine Learning
 Foco: Aplicação prática, pesquisa e especialização em algoritmos e modelos.
 Este roadmap é ideal para quem deseja criar, ajustar e refinar modelos de Machine Learning, utilizando ferramentas avançadas como TensorFlow, PyTorch, e bibliotecas de análise de dados.
 Ele também inclui práticas com projetos práticos que envolvem previsão de vendas, reconhecimento de imagens, e classificação de textos, fundamentais para um especialista que busca criar soluções robustas.
 
-Engenheiro de Machine Learning
+## 🛠️ Engenheiro de Machine Learning
 Foco: Implementação escalável, infraestrutura robusta, e integração de sistemas.
 O roadmap abrange tópicos essenciais para implementação no mundo real, como:
 Infraestrutura de nuvem (AWS, Azure, Google Cloud).
@@ -71,10 +64,8 @@ Lembre-se: Especialistas e Engenheiros têm áreas complementares, e dominar amb
 
 ---
 
-
-
-# Jornada Machine Learning  
-Bem-vindo à sua jornada para se tornar um Engenheiro ou um Especialista de Machine Learning! Abaixo está um guia com etapas claras e progressivas para orientar seu aprendizado.  
+# Tabela: Roadmap para Especialista em Machine Learning
+(Foco em pesquisa, desenvolvimento de modelos avançados e experimentação prática.)
 
 | **Etapas**                  | **Conteúdo**                                                                                 | **Ferramentas/Conceitos**                                                                 |
 |-----------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -91,29 +82,12 @@ Bem-vindo à sua jornada para se tornar um Engenheiro ou um Especialista de Mach
 🚀 **Pronto para começar?** Explore cada etapa, utilize os recursos abaixo e compartilhe seu progresso!
 
 ### Diretórios do Repositório
-
 - **`docs/`**: Documentação do projeto.  
 - **`notebooks/`**: Notebooks Jupyter para análise e modelagem.  
 - **`scripts/`**: Scripts Python para diversas tarefas.  
 - **`data/`**: Dados brutos e processados utilizados nos projetos.
 
 ---
-
-### Executando o Projeto  
-
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/jornada-machine-learning.git
-
-
-🚀 **Pronto para começar? Explore cada etapa e compartilhe seu progresso!**
-
-
-## Diretórios
-- **docs/**: Documentação do projeto
-- **notebooks/**: Notebooks Jupyter para análise e modelagem
-- **scripts/**: Scripts Python para diversas tarefas
-- **data/**: Dados brutos e processados
 
 ## Executando o Projeto
 1. Clone este repositório
