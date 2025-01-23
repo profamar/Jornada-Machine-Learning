@@ -1,8 +1,6 @@
-# Roadmap para Formação em Machine Learning
+# 🛤️ Roadmap para Formação em Machine Learning
 
 Bem-vindo à sua jornada para se tornar um Engenheiro ou Especialista de Machine Learning! Este roadmap foi elaborado para orientar seu aprendizado de forma progressiva, abordando desde os fundamentos essenciais até a aplicação prática e escalável de modelos, algoritmos e sistemas. Ideal para quem deseja se aprofundar na área, cobrindo todas as etapas necessárias para a especialização e implementação eficiente de soluções em Machine Learning.
-
-## 🛤️ Roadmap para Formação em Machine Learning
 
 ## 🛠️ Especialista em Machine Learning
 Foco: Aplicação prática, pesquisa e especialização em algoritmos e modelos.
@@ -21,7 +19,6 @@ Ele é voltado para quem deseja construir sistemas confiáveis e escaláveis par
 Escolha os tópicos de acordo com seus interesses e o cargo desejado.
 Se você está iniciando, comece pelos fundamentos de programação e machine learning, e depois aprofunde-se nas áreas específicas.
 Lembre-se: Especialistas e Engenheiros têm áreas complementares, e dominar ambas pode ser um diferencial competitivo no mercado!
-
 
 ## Etapas para Desenvolver Habilidades em Machine Learning, da Base à Prática!
 
