@@ -1,5 +1,6 @@
 # Jornada Machine Learning  
-Bem-vindo à sua jornada para se tornar um Engenheiro ou um Especialista de Machine Learning! Este guia foi desenvolvido com etapas claras e progressivas para orientar seu aprendizado, seja na aplicação prática de modelos e algoritmos, seja na implementação escalável e integração de sistemas.
+
+Bem-vindo à sua jornada para se tornar um Engenheiro ou Especialista de Machine Learning! Este roadmap foi elaborado para orientar seu aprendizado de forma progressiva, abordando desde os fundamentos essenciais até a aplicação prática e escalável de modelos, algoritmos e sistemas. Ideal para quem deseja se aprofundar na área, cobrindo todas as etapas necessárias para a especialização e implementação eficiente de soluções em Machine Learning.
 
 ## 🛤️ Roadmap para Formação em Machine Learning
 
