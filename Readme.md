@@ -1,6 +1,6 @@
-# Roadmap para Aspirantes a Engenheiros de Machine Learning
+# Roadmap para Formação em Machine Learning
 
-Bem-vindo à sua jornada para se tornar um Engenheiro de Machine Learning! Este roadmap oferece um caminho claro e progressivo para o seu aprendizado, abordando desde os fundamentos essenciais até a aplicação prática de modelos e algoritmos, além da implementação escalável e integração de sistemas. Ele é ideal para quem deseja se aprofundar na área e desenvolver habilidades necessárias para se tornar um especialista, proporcionando uma visão abrangente para a construção de soluções eficientes em Machine Learning.
+Bem-vindo à sua jornada para se tornar um Engenheiro ou Especialista de Machine Learning! Este roadmap foi elaborado para orientar seu aprendizado de forma progressiva, abordando desde os fundamentos essenciais até a aplicação prática e escalável de modelos, algoritmos e sistemas. Ideal para quem deseja se aprofundar na área, cobrindo todas as etapas necessárias para a especialização e implementação eficiente de soluções em Machine Learning.
 
 ## 🛤️ Roadmap para Formação em Machine Learning
 
