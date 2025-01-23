@@ -1,6 +1,36 @@
+# Jornada Machine Learning  
+Bem-vindo à sua jornada para se tornar um Engenheiro ou um Especialista de Machine Learning! Este guia foi desenvolvido com etapas claras e progressivas para orientar seu aprendizado, seja na aplicação prática de modelos e algoritmos, seja na implementação escalável e integração de sistemas.
+
 ## 🛤️ Roadmap para Formação em Machine Learning
 
-Este roadmap apresenta as etapas organizadas para desenvolver habilidades em Machine Learning, desde os fundamentos até a aplicação prática em projetos reais e networking profissional. Siga cada etapa para construir uma base sólida e prática!
+Este roadmap atende às duas principais carreiras no campo de Machine Learning:
+
+Especialista em Machine Learning: Foco em pesquisa, aplicação prática e desenvolvimento de modelos avançados.
+Engenheiro de Machine Learning: Foco em infraestrutura, escalabilidade e integração de sistemas.
+
+Siga as etapas para construir uma base sólida e prática, adaptada às suas aspirações profissionais!
+
+## 🛠️ Especialista vs. Engenheiro de Machine Learning
+
+Especialista em Machine Learning
+Foco: Aplicação prática, pesquisa e especialização em algoritmos e modelos.
+Este roadmap é ideal para quem deseja criar, ajustar e refinar modelos de Machine Learning, utilizando ferramentas avançadas como TensorFlow, PyTorch, e bibliotecas de análise de dados.
+Ele também inclui práticas com projetos práticos que envolvem previsão de vendas, reconhecimento de imagens, e classificação de textos, fundamentais para um especialista que busca criar soluções robustas.
+
+Engenheiro de Machine Learning
+Foco: Implementação escalável, infraestrutura robusta, e integração de sistemas.
+O roadmap abrange tópicos essenciais para implementação no mundo real, como:
+Infraestrutura de nuvem (AWS, Azure, Google Cloud).
+Deploy e monitoramento de modelos utilizando ferramentas como Docker, SQL, MLflow, e APIs com Flask ou FastAPI.
+Ele é voltado para quem deseja construir sistemas confiáveis e escaláveis para integrar soluções de Machine Learning em ambientes de produção.
+
+📌 Como usar este roadmap?
+Escolha os tópicos de acordo com seus interesses e o cargo desejado.
+Se você está iniciando, comece pelos fundamentos de programação e machine learning, e depois aprofunde-se nas áreas específicas.
+Lembre-se: Especialistas e Engenheiros têm áreas complementares, e dominar ambas pode ser um diferencial competitivo no mercado!
+
+
+## Etapas para Desenvolver Habilidades em Machine Learning, da Base à Prática!
 
 ### **1️⃣ Fundamentos de Programação**
 - **Linguagem Base:** Python (Domínio da sintaxe, bibliotecas básicas e boas práticas).
@@ -41,16 +71,10 @@ Este roadmap apresenta as etapas organizadas para desenvolver habilidades em Mac
 
 ---
 
-🌟 **Acompanhe seu progresso:** Use os diretórios do repositório para organizar estudos, projetos e documentação.  
-
-⭐ **Não esqueça de compartilhar seu aprendizado e dar uma estrela neste repositório!**
-
-
-
 
 
 # Jornada Machine Learning  
-Bem-vindo à sua jornada para se tornar um Engenheiro de Machine Learning! Abaixo está um guia com etapas claras e progressivas para orientar seu aprendizado.  
+Bem-vindo à sua jornada para se tornar um Engenheiro ou um Especialista de Machine Learning! Abaixo está um guia com etapas claras e progressivas para orientar seu aprendizado.  
 
 | **Etapas**                  | **Conteúdo**                                                                                 | **Ferramentas/Conceitos**                                                                 |
 |-----------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
