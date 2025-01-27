@@ -1,3 +1,5 @@
+![Diagrama do Projeto](https://github.com/profamar/Jornada-Machine-Learning/blob/main/Apresenta%C3%A7%C3%A3o1.png)
+
 # 🛤️ Roadmap para Formação em Machine Learning
 
 Bem-vindo à sua jornada para se tornar um Engenheiro ou Especialista de Machine Learning! Este roadmap foi elaborado para orientar seu aprendizado de forma progressiva, abordando desde os fundamentos essenciais até a aplicação prática e escalável de modelos, algoritmos e sistemas. Ideal para quem deseja se aprofundar na área, cobrindo todas as etapas necessárias para a especialização e implementação eficiente de soluções em Machine Learning.
@@ -116,7 +118,6 @@ Contribuições são bem-vindas! Por favor, siga as diretrizes do nosso código 
 ## Licença
 Este projeto é licenciado sob a Licença MIT.
 
-![Diagrama do Projeto](https://github.com/profamar/Jornada-Machine-Learning/blob/main/Apresenta%C3%A7%C3%A3o1.png)
 
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
