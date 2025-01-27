@@ -116,7 +116,7 @@ Contribuições são bem-vindas! Por favor, siga as diretrizes do nosso código 
 ## Licença
 Este projeto é licenciado sob a Licença MIT.
 
-![Diagrama do Projeto](https://github.com/seu-usuario/seu-repositorio/blob/main/diagrama.png)
+![Diagrama do Projeto](https://github.com/profamar/Jornada-Machine-Learning/blob/main/Apresenta%C3%A7%C3%A3o1.png)
 
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
