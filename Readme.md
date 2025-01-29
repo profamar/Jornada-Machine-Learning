@@ -115,6 +115,7 @@ Lembre-se: Especialistas e Engenheiros têm áreas complementares, e dominar amb
 ## Contribuição
 Contribuições são bem-vindas! Por favor, siga as diretrizes do nosso código de conduta ao contribuir.
 
+
 # Algoritmos de Machine Learning
 
 | Algoritmo                         | Supervisionado           | Não Supervisionado       | Por Reforço                     |
@@ -136,29 +137,6 @@ Contribuições são bem-vindas! Por favor, siga as diretrizes do nosso código 
 | Gradient Boosting Machines (GBM)  | ✔️                       |                          |                                 |
 | Principal Component Analysis (PCA)|                          | ✔️                       |                                 |
 
-
-
-1. Algoritmos de Aprendizado Supervisionado
-•	Regressão Linear: Utilizado para prever valores contínuos, como preços de imóveis ou temperatura.
-•	Regressão Logística: Ideal para problemas de classificação binária, como prever se um cliente comprará ou não um produto.
-•	Árvores de Decisão: Construção de modelos baseados em regras para classificação e regressão.
-•	Random Forest: Um conjunto de árvores de decisão que melhora a precisão e reduz o overfitting.
-•	Support Vector Machines (SVM): Classificação de dados através da maximização do limite entre diferentes classes.
-•	K-Nearest Neighbors (KNN): Classifica dados com base nos exemplos mais próximos no espaço de recursos.
-2. Algoritmos de Aprendizado Não Supervisionado
-•	K-Means Clustering: Agrupamento de dados em clusters com base em similaridades.
-•	Hierarchical Clustering: Forma uma hierarquia de clusters de forma progressiva.
-•	Apriori: Identificação de padrões frequentes, como associações entre itens em transações de compra.
-•	Autoencoders: Redes neurais usadas para redução de dimensionalidade e detecção de anomalias.
-3. Algoritmos de Aprendizado por Reforço
-•	Q-Learning: Algoritmo baseado em tabelas que utiliza aprendizado por tentativa e erro.
-•	Deep Q-Learning: Uma evolução do Q-Learning que utiliza redes neurais para resolver problemas complexos.
-•	SARSA (State-Action-Reward-State-Action): Algoritmo semelhante ao Q-Learning, mas mais focado na política atual do agente.
-4. Outros Algoritmos Importantes
-•	Naive Bayes: Baseado no teorema de Bayes, muito usado para classificação de texto, como e-mails de spam.
-•	Gradient Boosting Machines (GBM): Modelos como XGBoost e LightGBM, que combinam previsões de vários modelos fracos para criar um modelo forte.
-•	Principal Component Analysis (PCA): Usado para redução de dimensionalidade em dados de alta dimensionalidade.
-Esses algoritmos são aplicados em diversos contextos, como detecção de fraudes, diagnóstico médico, recomendação de produtos e muito mais. Cada um tem suas vantagens e limitações, sendo escolhidos com base no problema e no tipo de dado disponível.
 
 
 ## Licença
