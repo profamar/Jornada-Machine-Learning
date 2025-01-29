@@ -115,6 +115,29 @@ Lembre-se: Especialistas e Engenheiros têm áreas complementares, e dominar amb
 ## Contribuição
 Contribuições são bem-vindas! Por favor, siga as diretrizes do nosso código de conduta ao contribuir.
 
+# Algoritmos de Machine Learning
+
+| Algoritmo                         | Supervisionado           | Não Supervisionado       | Por Reforço                     |
+|-----------------------------------|--------------------------|--------------------------|---------------------------------|
+| Regressão Linear                  | ✔️                       |                          |                                 |
+| Regressão Logística               | ✔️                       |                          |                                 |
+| Árvore de Decisão                 | ✔️                       |                          |                                 |
+| Random Forest                     | ✔️                       |                          |                                 |
+| Support Vector Machines (SVM)     | ✔️                       |                          |                                 |
+| K-Nearest Neighbors (KNN)         | ✔️                       |                          |                                 |
+| K-Means Clustering                |                          | ✔️                       |                                 |
+| Hierarchical Clustering           |                          | ✔️                       |                                 |
+| Apriori                           |                          | ✔️                       |                                 |
+| Autoencoders                      |                          | ✔️                       |                                 |
+| Q-Learning                        |                          |                          | ✔️                             |
+| Deep Q-Learning                   |                          |                          | ✔️                             |
+| SARSA                             |                          |                          | ✔️                             |
+| Naive Bayes                       | ✔️                       |                          |                                 |
+| Gradient Boosting Machines (GBM)  | ✔️                       |                          |                                 |
+| Principal Component Analysis (PCA)|                          | ✔️                       |                                 |
+
+
+
 1. Algoritmos de Aprendizado Supervisionado
 •	Regressão Linear: Utilizado para prever valores contínuos, como preços de imóveis ou temperatura.
 •	Regressão Logística: Ideal para problemas de classificação binária, como prever se um cliente comprará ou não um produto.
