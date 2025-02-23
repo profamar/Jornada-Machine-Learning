@@ -63,7 +63,7 @@ Lembre-se: Especialistas e Engenheiros têm áreas complementares, e dominar amb
 
 ---
 
-# Tabela: Roadmap para Especialista em Machine Learning
+# Roadmap para Especialista em Machine Learning
 (Com foco em pesquisa, desenvolvimento de modelos avançados e experimentação prática.)
 
 | **Etapas**                  | **Conteúdo**                                                                                 | **Ferramentas/Conceitos**                                                                 |
